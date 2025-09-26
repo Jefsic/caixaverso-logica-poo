@@ -1,0 +1,14 @@
+D:\ADA\Aula_05\Exercicio2\bin\Debug\net9.0\Exercicio2.exe
+D:\ADA\Aula_05\Exercicio2\bin\Debug\net9.0\Exercicio2.deps.json
+D:\ADA\Aula_05\Exercicio2\bin\Debug\net9.0\Exercicio2.runtimeconfig.json
+D:\ADA\Aula_05\Exercicio2\bin\Debug\net9.0\Exercicio2.dll
+D:\ADA\Aula_05\Exercicio2\bin\Debug\net9.0\Exercicio2.pdb
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfoInputs.cache
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfo.cs
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.dll
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\refint\Exercicio2.dll
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.pdb
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\Exercicio2.genruntimeconfig.cache
+D:\ADA\Aula_05\Exercicio2\obj\Debug\net9.0\ref\Exercicio2.dll
