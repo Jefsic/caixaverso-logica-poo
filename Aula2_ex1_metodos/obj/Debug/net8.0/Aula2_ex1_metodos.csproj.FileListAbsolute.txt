@@ -1,0 +1,14 @@
+D:\ADA\Aula_02\Aula2_ex1_metodos\bin\Debug\net8.0\Aula2_ex1_metodos.exe
+D:\ADA\Aula_02\Aula2_ex1_metodos\bin\Debug\net8.0\Aula2_ex1_metodos.deps.json
+D:\ADA\Aula_02\Aula2_ex1_metodos\bin\Debug\net8.0\Aula2_ex1_metodos.runtimeconfig.json
+D:\ADA\Aula_02\Aula2_ex1_metodos\bin\Debug\net8.0\Aula2_ex1_metodos.dll
+D:\ADA\Aula_02\Aula2_ex1_metodos\bin\Debug\net8.0\Aula2_ex1_metodos.pdb
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.AssemblyInfoInputs.cache
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.AssemblyInfo.cs
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.csproj.CoreCompileInputs.cache
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.dll
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\refint\Aula2_ex1_metodos.dll
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.pdb
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\Aula2_ex1_metodos.genruntimeconfig.cache
+D:\ADA\Aula_02\Aula2_ex1_metodos\obj\Debug\net8.0\ref\Aula2_ex1_metodos.dll
