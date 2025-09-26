@@ -1,0 +1,14 @@
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\bin\Debug\net8.0\Aula2_ex3_dicionarios.exe
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\bin\Debug\net8.0\Aula2_ex3_dicionarios.deps.json
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\bin\Debug\net8.0\Aula2_ex3_dicionarios.runtimeconfig.json
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\bin\Debug\net8.0\Aula2_ex3_dicionarios.dll
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\bin\Debug\net8.0\Aula2_ex3_dicionarios.pdb
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.AssemblyInfoInputs.cache
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.AssemblyInfo.cs
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.csproj.CoreCompileInputs.cache
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.dll
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\refint\Aula2_ex3_dicionarios.dll
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.pdb
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\Aula2_ex3_dicionarios.genruntimeconfig.cache
+D:\ADA\Aula_02\Aula2_ex3_dicionarios\obj\Debug\net8.0\ref\Aula2_ex3_dicionarios.dll
