@@ -1,0 +1,14 @@
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\bin\Debug\net8.0\Aula2_ex4_tratamento_erros.exe
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\bin\Debug\net8.0\Aula2_ex4_tratamento_erros.deps.json
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\bin\Debug\net8.0\Aula2_ex4_tratamento_erros.runtimeconfig.json
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\bin\Debug\net8.0\Aula2_ex4_tratamento_erros.dll
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\bin\Debug\net8.0\Aula2_ex4_tratamento_erros.pdb
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.AssemblyInfoInputs.cache
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.AssemblyInfo.cs
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.csproj.CoreCompileInputs.cache
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.dll
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\refint\Aula2_ex4_tratamento_erros.dll
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.pdb
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\Aula2_ex4_tratamento_erros.genruntimeconfig.cache
+D:\ADA\Aula_02\Aula2_ex4_tratamento_erros\obj\Debug\net8.0\ref\Aula2_ex4_tratamento_erros.dll
