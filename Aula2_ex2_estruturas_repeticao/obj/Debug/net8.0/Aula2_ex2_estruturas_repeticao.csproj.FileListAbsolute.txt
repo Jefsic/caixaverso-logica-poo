@@ -1,0 +1,14 @@
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\bin\Debug\net8.0\Aula2_ex2_estruturas_repeticao.exe
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\bin\Debug\net8.0\Aula2_ex2_estruturas_repeticao.deps.json
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\bin\Debug\net8.0\Aula2_ex2_estruturas_repeticao.runtimeconfig.json
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\bin\Debug\net8.0\Aula2_ex2_estruturas_repeticao.dll
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\bin\Debug\net8.0\Aula2_ex2_estruturas_repeticao.pdb
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.AssemblyInfoInputs.cache
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.AssemblyInfo.cs
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.csproj.CoreCompileInputs.cache
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.dll
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\refint\Aula2_ex2_estruturas_repeticao.dll
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.pdb
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\Aula2_ex2_estruturas_repeticao.genruntimeconfig.cache
+D:\ADA\Aula_02\Aula2_ex2_estruturas_repeticao\obj\Debug\net8.0\ref\Aula2_ex2_estruturas_repeticao.dll
