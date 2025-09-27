@@ -1,0 +1,14 @@
+D:\ADA\Aula_04\ProdutoEPreco\bin\Debug\net9.0\ProdutoEPreco.exe
+D:\ADA\Aula_04\ProdutoEPreco\bin\Debug\net9.0\ProdutoEPreco.deps.json
+D:\ADA\Aula_04\ProdutoEPreco\bin\Debug\net9.0\ProdutoEPreco.runtimeconfig.json
+D:\ADA\Aula_04\ProdutoEPreco\bin\Debug\net9.0\ProdutoEPreco.dll
+D:\ADA\Aula_04\ProdutoEPreco\bin\Debug\net9.0\ProdutoEPreco.pdb
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.AssemblyInfoInputs.cache
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.AssemblyInfo.cs
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.csproj.CoreCompileInputs.cache
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.dll
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\refint\ProdutoEPreco.dll
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.pdb
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ProdutoEPreco.genruntimeconfig.cache
+D:\ADA\Aula_04\ProdutoEPreco\obj\Debug\net9.0\ref\ProdutoEPreco.dll
