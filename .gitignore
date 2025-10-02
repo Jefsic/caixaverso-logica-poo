@@ -1,0 +1,32 @@
+bin/
+obj/
+*.exe
+*.pdb
+*.dll
+*.config
+*.user
+packages/
+*.suo
+*.cache
+
+# IDE folders
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Web assets (Blazor)
+wwwroot/lib/
+
+# Rider IDE (JetBrains)
+.idea/
+
+# Test results
+TestResults/
